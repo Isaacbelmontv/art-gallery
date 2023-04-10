@@ -323,6 +323,23 @@ footer {
   .gallery-item {
     width: 100% !important;
   }
+
+  footer {
+    padding-top: 30px;
+    flex-direction: column;
+  }
+
+  .footer-text {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .logo-image {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+  }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
